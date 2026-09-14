@@ -28,39 +28,6 @@ A structured research environment supporting **literature study, reproducible ex
 
 </div>
 
-
-
-
-
-
-<div align="center">
-<img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="130"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="130"/>
-
-
-## International Council for Research & Innovation in STE (ICRI-STE) 
-
-## Computational Healthcare Intelligence Lab (CHI Lab)
-
-[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
-[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrGiovanni/R-Super&left_color=%2363C7E6&right_color=%23CEE75F)
-
----
-
-## Research Leadership
-
-**Dr. Didar Murad**  
-*Principal Investigator & Founding Director, CHI Lab*
-
-**PhD in Computational Science & Engineering**
-
-
-**A structured open repository for learning, experimentation, reproducible mini-projects, literature study, and collaborative research on pancreatic cancer**
-
-</div>
-
 ---
 
 ## About CHI Lab (Dry Lab)
