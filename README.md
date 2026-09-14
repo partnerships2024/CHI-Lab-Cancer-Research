@@ -2,7 +2,7 @@
 
 <img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="130"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="130"/>
+<img src="ICRI-STE-Logo.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="130"/>
 
 # Computational Healthcare Intelligence Lab (CHI Lab)
 
