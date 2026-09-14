@@ -218,7 +218,7 @@ Recommended use:
 
 ---
 
-# Important CHI Lab & ICRI-STE Links
+# Important Links
 
 | Resource | Link |
 |:---|:---|
