@@ -43,51 +43,6 @@ This repository provides an **open and structured environment for ECRs** to deve
 
 ---
 
-
-
-
-
-<div align="center">
-<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
-
-
-# Computational Healthcare Intelligence Lab (CHI Lab)
-
-### International Council for Research & Innovation in STE (ICRI-STE)
-
-[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
-[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
-
----
-
-### Research Leadership
-
-**Dr. Didar Murad**  
-*Principal Investigator & Founding Director, Computational Healthcare Intelligence Lab (CHI Lab)*
-
-*PhD in Computational Science & Engineering*
-
----
-
-</div>
-
----
-
-## About CHI Lab (Dry Lab)
-
-The **Computational Healthcare Intelligence Lab (CHI Lab)** is a research laboratory focused on the integration of **computational science, artificial intelligence, machine learning, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
-
-
-This repository provides a structured research environment for **Early Career Researchers (ECRs)** to develop practical research skills through small, reproducible projects and literature-driven investigations.
-
-The repository is designed to support the progression:
-
-> **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
-
----
-
 **Open Research Repository**
 
 A structured research environment supporting **literature study, reproducible experiments, machine learning and deep learning development, mini-projects, and collaborative research in computational pancreatic cancer research.**
