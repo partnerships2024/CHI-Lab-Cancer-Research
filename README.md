@@ -4,7 +4,7 @@
 <img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="130"/>
 
 
-# International Council for Research & Innovation in STE (ICRI-STE) 
+## International Council for Research & Innovation in STE (ICRI-STE) 
 
 ## Computational Healthcare Intelligence Lab (CHI Lab)
 
@@ -13,30 +13,11 @@
 ## Research Leadership
 
 **Dr. Didar Murad**  
-*Principal Investigator & Founding Director, Computational Healthcare Intelligence Lab (CHI Lab)*
+*Principal Investigator & Founding Director, CHI Lab*
 
 **PhD in Computational Science & Engineering**
 
 </div>
-
-
-
-<div align="center">
-      
-<img src="CHI-Lab.png" alt="CHI Lab Logo" width="120"/>
-
-# Computational Healthcare Intelligence Lab (CHI Lab)
-# International Council for Research & Innovation in STE (ICRI-STE)
-
-# Research Leadership
-
-<div align="center">
-
-**Principal Investigator and Founding Director, CHI Lab**
-
-**Dr. Didar Murad**  
-PhD in Computational Science & Engineering   
-
 
 [![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
