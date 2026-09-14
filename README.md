@@ -94,56 +94,6 @@ project-name/
 > **Important:** Do not upload restricted, confidential, patient-identifiable, or otherwise sensitive healthcare data to this repository. Use public, synthetic, or appropriately de-identified datasets and follow the relevant dataset licence and terms of use.
 
 ---
-
-# Research Areas
-
-CHI Lab mini-projects may cover the following areas:
-
-### Computational Biology & Systems Biology
-- Gene-expression analysis
-- Differential expression
-- Pathway analysis
-- Network biology
-- Dynamical systems
-- ODE-based biological modelling
-- Multi-omics integration
-
-### Artificial Intelligence & Machine Learning
-- Classical machine learning
-- Deep learning
-- Transformers
-- Explainable AI
-- Federated learning
-- Generative AI
-- Agentic AI
-
-### Medical Imaging
-- Image classification
-- Object detection
-- Tumour segmentation
-- Medical image preprocessing
-- CT / MRI / histopathology analysis
-- Benchmarking segmentation models
-
-### Computational Healthcare
-- Clinical prediction
-- Digital health
-- Digital twins
-- Multimodal healthcare AI
-- Longitudinal health-data analysis
-- Privacy-preserving healthcare analytics
-
-### AI-Driven Scientific Discovery
-- AI research agents
-- Multi-agent scientific workflows
-- Virtual laboratories
-- Target discovery
-- Protein structure analysis
-- Therapeutic design
-- Human-in-the-loop scientific discovery
-
----
-
 # Literature & Research Papers
 
 The repository also provides a curated space for **important research papers, literature notes, and paper-based mini-projects**.
