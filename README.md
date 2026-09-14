@@ -4,11 +4,16 @@
 
 # Computational Healthcare Intelligence Lab (CHI Lab)
 
-### Principal Investigator | Dr. Didar Murad   
-
+### Principal Investigator | Dr. Didar Murad
+[![Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com) 
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4.svg)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
-[![ECR](https://img.shields.io/badge/ECR%20%7C%20BS%20%7C%20MS%20%7C%20PhD-2E7D32.svg)](https://icriste.com/future-leaders/)
+[![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge)](https://icriste.com/future-leaders/) 
+[![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrGiovanni/R-Super&left_color=%2363C7E6&right_color=%23CEE75F)
+
+[![ECR](https://img.shields.io/badge/ECR%20%7C%20BS%20%7C%20MS%20%7C%20PhD-2E7D32.svg)](https://icriste.com/future-leaders/)
+
 
 
 **A structured open repository for learning, experimentation, reproducible mini-projects, literature study, and collaborative research on pancreatic cancer**
