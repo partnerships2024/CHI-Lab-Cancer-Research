@@ -1,4 +1,53 @@
 <div align="center">
+
+<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
+
+# Computational Healthcare Intelligence Lab (CHI Lab)
+
+### International Council for Research & Innovation in STE (ICRI-STE)
+
+[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
+[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
+
+---
+
+**Dr. Didar Murad**  
+*Principal Investigator & Founding Director, CHI Lab*  
+*PhD in Computational Science & Engineering*
+
+</div>
+
+---
+
+## About CHI Lab
+
+The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research laboratory integrating **computational science, AI/ML, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
+
+This repository provides an **open and structured environment for ECRs** to develop research skills through literature-driven projects, reproducible experiments, and collaborative research.
+
+> **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
+
+## Repository Focus
+
+- AI, machine learning & deep learning
+- Computational & systems biology
+- Medical imaging & image segmentation
+- Multi-omics & gene-expression analysis
+- Digital health & healthcare AI
+- Agentic AI & AI-driven virtual laboratories
+- Literature review & research analysis
+- Reproducible experiments & validation
+- Research documentation & collaboration
+
+---
+
+
+
+
+
+<div align="center">
 <img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
