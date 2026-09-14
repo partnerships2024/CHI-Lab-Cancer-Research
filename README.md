@@ -43,10 +43,6 @@ This repository provides an **open and structured environment for ECRs** to deve
 
 ---
 
-**Open Research Repository**
-
-A structured research environment supporting **literature study, reproducible experiments, machine learning and deep learning development, mini-projects, and collaborative research in computational pancreatic cancer research.**
-
 ## Purpose of This Repository
 
 This GitHub repository serves as a central workspace for CHI Lab ECR activities, including:
