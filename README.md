@@ -11,43 +11,6 @@
 [![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
 
-<br>
-
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY&left_color=63C7E6&right_color=CEE75F)
-
----
-
-### Research Leadership
-
-**Dr. Didar Murad**  
-*Principal Investigator & Founding Director, Computational Healthcare Intelligence Lab (CHI Lab)*
-
-*PhD in Computational Science & Engineering*
-
----
-
-### Open Research Repository
-
-**A structured research environment for literature study, reproducible experiments, machine learning and deep learning development, mini-projects, and collaborative research in computational pancreatic cancer research.**
-
-</div>
-
-
-
-<div align="center">
-
-<img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="135"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="135"/>
-
-# Computational Healthcare Intelligence Lab (CHI Lab)
-
-### International Council for Research & Innovation in STE (ICRI-STE)
-
-[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
-[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY)
-
 ---
 
 ### Research Leadership
