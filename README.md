@@ -262,19 +262,7 @@ Recommended use:
 - Share executable research notebooks
 ---
 
-# CHI Lab Research & Project Google Document
-
-The Google Document can be used as the central coordination document for:
-
-- ECR project assignments
-- Research guidelines
-- Training material
-- Project requirements
-- Literature lists
-- Research tasks
-- Meeting notes
-- Project progress
-- Submission requirements
+# CHI Lab Research Project Google Document
 
 [![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ZS-7U8J_ZEvcUT_LtzDHRV7wtD4hlo9aQQRnYUAsK20/edit?usp=sharing)
 
@@ -336,20 +324,6 @@ For example:
   organization = {ICRI-STE}
 }
 ```
-
----
-
-# Research Leadership
-
-<div align="center">
-
-### Computational Healthcare Intelligence Lab (CHI Lab)
-
-**Principal Investigator, CHI Lab**
-
-**Dr. Didar Murad**  
-PhD in Computational Science & Engineering   
-International Council for Research & Innovation in STE (ICRI-STE)
 
 ---
 
