@@ -22,10 +22,6 @@
 
 ---
 
-**Open Research Repository**
-
-A structured research environment supporting **literature study, reproducible experiments, machine learning and deep learning development, mini-projects, and collaborative research in computational pancreatic cancer research.**
-
 </div>
 
 ---
@@ -43,12 +39,16 @@ The repository is designed to support the progression:
 
 ---
 
+**Open Research Repository**
+
+A structured research environment supporting **literature study, reproducible experiments, machine learning and deep learning development, mini-projects, and collaborative research in computational pancreatic cancer research.**
+
 ## Purpose of This Repository
 
 This GitHub repository serves as a central workspace for CHI Lab ECR activities, including:
 
 - Mini research projects
-- Python / MATLAB / Jupyter / Google Colab experiments
+- Python / Jupyter / Google Colab experiments
 - Computational biology and systems biology studies
 - AI and machine learning implementations
 - Medical image analysis and segmentation
