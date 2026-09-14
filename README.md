@@ -1,4 +1,40 @@
 <div align="center">
+
+<img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="135"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="135"/>
+
+# Computational Healthcare Intelligence Lab (CHI Lab)
+
+### International Council for Research & Innovation in STE (ICRI-STE)
+
+[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
+[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
+![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY)
+
+---
+
+### Research Leadership
+
+**Dr. Didar Murad**  
+*Principal Investigator & Founding Director, Computational Healthcare Intelligence Lab (CHI Lab)*
+
+*PhD in Computational Science & Engineering*
+
+---
+
+**Open Research Repository**
+
+A structured research environment supporting **literature study, reproducible experiments, machine learning and deep learning development, mini-projects, and collaborative research in computational pancreatic cancer research.**
+
+</div>
+
+
+
+
+
+
+<div align="center">
 <img src="(2).png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="130"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="130"/>
@@ -21,14 +57,6 @@
 
 **PhD in Computational Science & Engineering**
 
-<div align="center">
-
-[![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/future-leaders/)
-[![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)
-
-
-</div>
 
 **A structured open repository for learning, experimentation, reproducible mini-projects, literature study, and collaborative research on pancreatic cancer**
 
