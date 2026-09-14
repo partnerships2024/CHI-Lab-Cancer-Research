@@ -8,6 +8,9 @@
 
 ## Computational Healthcare Intelligence Lab (CHI Lab)
 
+[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
+[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
+
 ---
 
 ## Research Leadership
@@ -18,9 +21,6 @@
 **PhD in Computational Science & Engineering**
 
 </div>
-
-[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
-[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
 [![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/future-leaders/)
 [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)
