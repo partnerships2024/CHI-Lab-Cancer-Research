@@ -221,7 +221,7 @@ Our pancreatic tumour segmentation research is motivated by recent advances in *
 
 | **Researcher / Resource** | **Research Papers & Open-Source Implementations** |
 |:---|:---|
-| **Prof. Dr. Zongwei Zhou** | [Personal Website](https://www.zongweiz.com) · [PanTS GitHub Repository](https://github.com/MrGiovanni/PanTS) |
+| **Prof. Dr. Zongwei Zhou** | [Website](https://www.zongweiz.com) · [PanTS GitHub Repository](https://github.com/MrGiovanni/PanTS) |
 | **Relevant Research Papers** | [Paper 1](https://arxiv.org/abs/2507.01291) · [Paper 2](https://arxiv.org/abs/1912.05074) · [Paper 3](https://arxiv.org/abs/2102.04306) · [Paper 4](https://arxiv.org/abs/2203.00131) · [Paper 5](https://arxiv.org/html/2604.20981v1) |
 
 ### Key Reference: Learning Segmentation from Radiology Reports
