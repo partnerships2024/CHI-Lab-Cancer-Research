@@ -47,9 +47,9 @@ This repository provides an **open and structured environment for ICRI-STE selec
 
 ## Purpose of This Repository
 
-This GitHub repository serves as a central workspace for CHI Lab ECR activities, including:
+This GitHub repository serves as a central workspace for CHI Lab ECR current activities including:
 
-- Mini research projects
+- Mini and main research projects on pancreatic cancer 
 - Python / Jupyter / Google Colab experiments
 - Computational biology and systems biology studies
 - AI and machine learning implementations
