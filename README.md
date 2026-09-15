@@ -27,7 +27,7 @@ The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research la
 
 **Current Research Direction:** Pancreatic Cancer & Lung Cancer
 
-This repository provides an **open and structured environment for ECRs training** to develop research skills through literature-driven projects, reproducible experiments, and collaborative research.
+This repository provides an **open and structured environment for ICRI-STE selected Early Carrier Researchers (ECRs) training** to develop research skills through literature-driven projects, reproducible experiments, and collaborative research.
 
 > **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
 
