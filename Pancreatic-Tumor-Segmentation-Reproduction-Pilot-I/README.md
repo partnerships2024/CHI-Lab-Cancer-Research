@@ -32,7 +32,7 @@ Dice, IoU, precision, recall and HD95.
 - `pilot_summary_metrics.csv` — mean metrics
 - `predictions/` — test predictions
 
-## Official PanTS reference
+## PanTS reference
 https://github.com/MrGiovanni/PanTS
 
 The official repository describes PanTS-tr (9,000 cases), PanTS-te (901 cases), and a full data download requiring about 300 GB. This pilot uses a smaller accessible dataset because the full dataset is not practical for this reproduction run.
