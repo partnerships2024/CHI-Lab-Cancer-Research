@@ -1,4 +1,4 @@
-# ECR1-C — Mahmuda — Pancreatic Tumor Segmentation Reproduction Pilot
+# Pancreatic Tumor Segmentation Reproduction Pilot
 
 ## Task
 Reproduction of a pancreatic tumor segmentation pipeline following the PanTS reproduction guidance.
