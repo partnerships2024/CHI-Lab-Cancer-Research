@@ -25,7 +25,7 @@
 
 The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research laboratory integrating **computational science, AI/ML, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
 
-**Current Research Direction: Pancreatic Cancer & Lung Cancer**
+**Current Research Direction:** Pancreatic Cancer & Lung Cancer
 
 This repository provides an **open and structured environment for ECRs** to develop research skills through literature-driven projects, reproducible experiments, and collaborative research.
 
